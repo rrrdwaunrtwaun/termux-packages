@@ -1,4 +1,4 @@
-#librys   المكتبات
+#librys   المكتباتtermux-packages.py
 import os
 import sys
 import time
